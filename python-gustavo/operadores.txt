@@ -1,0 +1,3 @@
+# Aritméticos - Usados para fazer calculos matemáticos
+# Relacionais - Usados para comparar valores
+# Lógicos - Usados para combinar condições, normalmente booleanas.
