@@ -6,4 +6,4 @@ Cada pasta representa uma nova etapa do meu aprendizado, refletindo prática, co
 
 Mais do que código, este repositório conta a história do meu desenvolvimento como pessoa e como desenvolvedora.
 
-"Onde transformo aprendizado em prática e prática em evolução." ✨
+"Onde transformo aprendizado em prática e prática em evolução."✨
