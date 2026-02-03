@@ -1,4 +1,9 @@
-# curso-python-gustavo-cdc
-Repositório de estudos da linguagem Python da Comunidade Dev Completo
+# estudos-dev
+Este repositório foi criado para centralizar e organizar minha jornada em desenvolvimento de software.
+Aqui registro cursos, exercícios, projetos e anotações que fazem parte do meu crescimento técnico e profissional.
 
-Aqui estou detalhando textos de estudos da linguagem de acordo com o que está sendo ensinado dentro do curso da comunidade dev completo, ministrado pelo professor Gustavo Medeiros.
+Cada pasta representa uma nova etapa do meu aprendizado, refletindo prática, consistência e evolução contínua.
+
+Mais do que código, este repositório conta a história do meu desenvolvimento como pessoa e como desenvolvedora.
+
+"Onde transformo aprendizado em prática e prática em evolução."
