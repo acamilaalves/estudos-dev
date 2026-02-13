@@ -3,15 +3,15 @@
 # A função input() é usada para receber dados do usuário.
 # Exemplo básico de uso da função input():
 
-# nome = input()
-# ou
-# nome  = input("Digite seu nome: ")
-# print(f"Bem-vindo, {nome}")
+nome = input()
+ou
+nome  = input("Digite seu nome: ")
+print(f"Bem-vindo, {nome}")
 
-# numero = input("Olá, informe um número: ")
+numero = input("Olá, informe um número: ")
 
-# print(numero - 1)
-# print(f"O número que você digitou foi: {numero}")
+print(numero - 1)
+print(f"O número que você digitou foi: {numero}")
 
 # Experimeto:
 # print(type(numero))  # O tipo de classe recebido será uma string, mesmo que o usuário digite um número, ele será tratado como uma string, pois sempre que terá um input ele nos devolverá uma string.

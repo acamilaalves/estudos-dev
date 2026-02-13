@@ -8,28 +8,28 @@
 
 # CONDIÇÃO: Qualquer operação que utilizando operadores lógicos e/ou relacionais, resulte em verdadeiro (True) ou (False) falso.
 
-# if CONDICAO:
-#     comando_1
-#     comando_2
-# elif CONDIÇÃO_2:
-#     comando_3
-#     comando_4
-# else:
-#     comando_se_nao
+if CONDICAO:
+    comando_1
+    comando_2
+elif CONDIÇÃO_2:
+    comando_3
+    comando_4
+else:
+    comando_se_nao
 
 
 # Exemplo 1:
 
-# idade = int(input("Digite sua idade: ")) # A função input() sempre é para trabalhar dados de entrada do usuário.
+idade = int(input("Digite sua idade: ")) # A função input() sempre é para trabalhar dados de entrada do usuário.
 
-# if idade >= 18:
-#     print("Já pode tirar a CNH.")
-#     print("Dirija com cuidado!")
-# else:
-#     print("Ainda não pode tirar a CNH.")
-#     print("Volte quando estiver com 18 anos!")
+if idade >= 18:
+    print("Já pode tirar a CNH.")
+    print("Dirija com cuidado!")
+else:
+    print("Ainda não pode tirar a CNH.")
+    print("Volte quando estiver com 18 anos!")
 
-# print("Fim do programa.")
+print("Fim do programa.")
 
 # Exemplo 2:
 
