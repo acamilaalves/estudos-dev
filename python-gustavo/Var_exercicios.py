@@ -35,6 +35,6 @@
 
 # Depois, exiba uma frase dizendo se a pessoa estuda python ou não.
 
-nome = "Camila"
-estuda_python = True
-print(f"{nome} está estudando Python: {estuda_python}.")
+# nome = "Camila"
+# estuda_python = True
+# print(f"{nome} está estudando Python: {estuda_python}.")
